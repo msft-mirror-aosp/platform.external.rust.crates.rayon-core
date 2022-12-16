@@ -1,5 +1,6 @@
 {
   "git": {
-    "sha1": "ebcb09b1dc53211c6b5abdf4dc5b40e4bcd0a965"
-  }
+    "sha1": "8e48eae53e969f328ef41f8d6977bb8cb7084bec"
+  },
+  "path_in_vcs": "rayon-core"
 }
