@@ -1,6 +1,6 @@
 [package]
 name = "rayon-core"
-version = "1.10.1"
+version = "1.10.2"
 authors = ["Niko Matsakis <niko@alum.mit.edu>",
            "Josh Stone <cuviper@gmail.com>"]
 description = "Core APIs for Rayon"
@@ -33,7 +33,6 @@ libc = "0.2"
 [[test]]
 name = "stack_overflow_crash"
 path = "tests/stack_overflow_crash.rs"
-harness = false
 
 # NB: having one [[test]] manually defined means we need to declare them all
 
