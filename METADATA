@@ -11,13 +11,13 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://static.crates.io/crates/rayon-core/rayon-core-1.10.2.crate"
+    value: "https://static.crates.io/crates/rayon-core/rayon-core-1.11.0.crate"
   }
-  version: "1.10.2"
+  version: "1.11.0"
   license_type: NOTICE
   last_upgrade_date {
     year: 2023
-    month: 2
-    day: 17
+    month: 4
+    day: 3
   }
 }
